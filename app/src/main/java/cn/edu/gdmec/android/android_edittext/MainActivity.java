@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                     editText.setError("请输入用户名");
                     return;
                 }
-                // Toast.makeText(MainActivity.this,value,Toast.LENGTH_SHORT).show();
+                //Toast.makeText(MainActivity.this,value,Toast.LENGTH_SHORT).show();
             }
         });
         //键盘事件，监听键盘的按下的变化
